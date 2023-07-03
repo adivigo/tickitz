@@ -55,9 +55,9 @@ section .contentbox .formbox .inputbox input
 {
     width: 100%;
 }
-section .contentbox .formbox .buttonbox
-{
+.button2 {
     width: 100%;
     margin-bottom: 30px;
     background-color: #008CBA;
+    color: white;
 }
